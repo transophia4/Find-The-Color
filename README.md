@@ -1,4 +1,3 @@
 # Find The Color
 
-A game for my younger siblings that is easy to interact with and fun for all
-ages.
+Inspired by my 3 year old sister and 6 year old brother that has simple game mechanics and an easy interface. This project helped me gain experience with React and Vite.
